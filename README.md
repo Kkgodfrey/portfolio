@@ -2,12 +2,8 @@
 ### Bio
 I'm a Junior Data Analyst at an e-mobility company with a background in Electrical and Electronics Engineering. I’m passionate about data, machine learning, and AI, and I enjoy applying these skills to solve real-world challenges in both business and community settings. I’ve led initiatives like migrating to AWS S3 for cost-effective analytics and am constantly exploring new ways to optimize processes—whether through predictive modeling, data lakes, or parallelized data processing in SageMaker. I’m also keen on continuous learning, especially in areas where data intersects with engineering and innovation.
 
-### Portfolio
-
-
 ### Elevator Pitch
 Godfrey Kipchumba is a data analyst with a background in Electrical and Electronics Engineering, currently working at an e-mobility company where he leads efforts in data analysis, reporting, and machine learning-driven insights. Blending technical expertise with a passion for solving real-world challenges, he is driven by the goal of leveraging data and AI to build smarter, safer, and more sustainable systems, particularly within Africa. His final year university project, which aimed to reduce road accidents in Kenya by automating traffic enforcement tasks through machine learning, earned him his current role. At his company, he has also spearheaded the transition from traditional databases to scalable data lakes on AWS S3—significantly improving cost efficiency and enabling deeper analytics through tools like Athena. He aspires to grow into a well-rounded professional at the intersection of data, AI, and engineering, and is actively expanding his skill set to include business development and radio communication as a hobby.
-
 
 ### Education
 - Bsc. Electrical an Electronics Engineering
