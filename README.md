@@ -12,11 +12,6 @@ I am a data analyst and engineer focused on practical software, IoT integration,
 - Internal reporting support for technical and non-technical stakeholders.
 
 ## Selected Work
-### Daktari Honey E-commerce Platform
-- Built a lightweight e-commerce platform using Django.
-- Implemented product catalog and purchase workflows with a focus on speed and simplicity.
-- Managed deployment setup with SQLite for streamlined operation.
-
 ### Data Lake Migration and Analytics Improvements
 - Supported migration from traditional databases to an AWS S3 data lake architecture.
 - Used AWS Athena for serverless querying and reduced analytics infrastructure overhead.
@@ -35,6 +30,11 @@ I am a data analyst and engineer focused on practical software, IoT integration,
 ### Server Management and Automation
 - Authored Python scripts for Linux server process control and deployment automation.
 - Configured remote server environments for live updates and script execution.
+
+### E-commerce Platform
+- Built a 2 lightweight e-commerce platform using Django.
+- Implemented product catalog and purchase workflows with a focus on speed and simplicity.
+- Managed deployment setup with SQLite for streamlined operation.
 
 ### ML-based Traffic Enforcement System (University Capstone)
 - Built a machine learning-based system to identify speeding and reckless driving patterns.
