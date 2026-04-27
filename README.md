@@ -1,64 +1,73 @@
-# Electrical and Electronics Engineer, Data Analyst
-### Bio
-I'm a Junior Data Analyst at an e-mobility company with a background in Electrical and Electronics Engineering. I’m passionate about data, machine learning, and AI, and I enjoy applying these skills to solve real-world challenges in both business and community settings. I’ve led initiatives like migrating to AWS S3 for cost-effective analytics and am constantly exploring new ways to optimize processes—whether through predictive modeling, data lakes, or parallelized data processing in SageMaker. I’m also keen on continuous learning, especially in areas where data intersects with engineering and innovation.
+# Godfrey Kipchumba
+Electrical and Electronics Engineer | Data Analyst | Software and IoT Practitioner
 
-### Elevator Pitch
-Godfrey Kipchumba is a data analyst with a background in Electrical and Electronics Engineering, currently working at an e-mobility company where he leads efforts in data analysis, reporting, and machine learning-driven insights. Blending technical expertise with a passion for solving real-world challenges, he is driven by the goal of leveraging data and AI to build smarter, safer, and more sustainable systems, particularly within Africa. His final year university project, which aimed to reduce road accidents in Kenya by automating traffic enforcement tasks through machine learning, earned him his current role. At his company, he has also spearheaded the transition from traditional databases to scalable data lakes on AWS S3—significantly improving cost efficiency and enabling deeper analytics through tools like Athena. He aspires to grow into a well-rounded professional at the intersection of data, AI, and engineering, and is actively expanding his skill set to include business development and radio communication as a hobby.
+## Professional Profile
+I am a data analyst and engineer focused on practical software, IoT integration, and data-driven decision making. My work combines web development, industrial telemetry, and analytics for real operational environments. I build systems that are reliable, clear to maintain, and aligned with business needs.
 
-### Education
-- Bsc. Electrical an Electronics Engineering
+## Experience
+### Data Analyst - Stima Technologies Ltd
+- Battery analytics and performance reporting.
+- Charging network optimization and operational analysis.
+- Battery capacity modelling and State of Health monitoring.
+- Internal reporting support for technical and non-technical stakeholders.
+
+## Selected Work
+### Daktari Honey E-commerce Platform
+- Built a lightweight e-commerce platform using Django.
+- Implemented product catalog and purchase workflows with a focus on speed and simplicity.
+- Managed deployment setup with SQLite for streamlined operation.
+
+### Data Lake Migration and Analytics Improvements
+- Supported migration from traditional databases to an AWS S3 data lake architecture.
+- Used AWS Athena for serverless querying and reduced analytics infrastructure overhead.
+- Improved reporting workflows for faster internal decision support.
+
+### Parallel Data Processing for Large CSV Workloads
+- Developed Python data pipelines to process large S3 CSV datasets in parallel.
+- Applied `ThreadPoolExecutor` and S3 Select for selective column reads and faster execution.
+- Increased processing efficiency for recurring analytics tasks.
+
+### Industrial IoT Fleet and Asset Monitoring
+- Configured Teltonika TFT100 devices in industrial settings using Codec 12 protocols.
+- Integrated JBD Battery Management Systems (BMS) with IoT hardware to transmit live telemetry.
+- Designed and executed 72-hour stability tests for watchdog reliability and server connection persistence.
+
+### Server Management and Automation
+- Authored Python scripts for Linux server process control and deployment automation.
+- Configured remote server environments for live updates and script execution.
+
+### ML-based Traffic Enforcement System (University Capstone)
+- Built a machine learning-based system to identify speeding and reckless driving patterns.
+- Designed real-time alerting and logging for traffic monitoring use cases.
+
+## Technical Skills
+### Languages and Frameworks
+- Python
+- Django
+- SQL
+- Jupyter Notebooks
+
+### Data and Cloud
+- Data analysis and visualization (Pandas, Matplotlib, Seaborn, Excel, Power BI)
+- AWS S3, Athena, SageMaker
+- Data lakes and analytics workflow design
+
+### Industrial and Systems
+- Codec 12, Modbus, IoT telemetry
+- Teltonika Configurator
+- Linux CLI and server scripting
+
+## Interests
+- Industrial IoT and connected systems reliability
+- Applied machine learning for transport safety and mobility
+- Data engineering and analytics optimization
+- Motorcycle technology and technical product analysis
+- Professional growth in business development and leadership
+
+## Education
+- BSc in Electrical and Electronics Engineering
 - AI Career Essentials
 - Professional Foundations
-- Data Analytics
-- Exploring business development to diversify professional skills and prepare for future entrepreneurship.
-
-
-### Work Experience
-Data Analyst @ Stima Technologies Ltd
- - Battery analytics
- - Charging Network Optimization
- - Battery capacity modelling
- - Battery State of Health monitoring
-
-## 🚀 Projects & Contributions
-
-### 🛵 Data Lake Migration & Analytics Overhaul 
-*E-Mobility Company – Internal Project*  
-- Proposed the migration from traditional databases to datalakes eventually settling for AWS S3-based data lakes for scalability, availability, and cost-effectiveness.
-- Leveraged AWS Athena for serverless querying, reducing infrastructure overhead and improving insight generation speed.
-- Improved collaboration with internal teams by building dashboards and reports that streamline data-driven decisions.
-
-### 📈 Parallel Data Processing for Large-Scale CSVs 
-*E-Mobility Company – Data Engineering Workflow Enhancement*  
-- Developed a parallelized script using `ThreadPoolExecutor` to process large CSV files stored in S3.
-- Integrated S3 Select for faster data access and reduced I/O, enabling selective column reads.
-- Resulted in significantly faster processing times and improved the team's ability to handle growing data volumes.
-
-### 🚦 ML-Based Traffic Enforcement System 
-*Final Year Engineering Project – University Capstone*  
-- Created a machine learning system to detect speeding and reckless driving using camera feeds and sensor data.
-- Aimed at automating traffic law enforcement and reducing accident rates in Kenya.
-- Featured real-time alerting and logging system for authorities.
-- This project demonstrated my ability to merge engineering, AI, and social impact.
-
-## 📊 Core Skills
-- **Data Analysis & Visualization**: Python (Pandas, Matplotlib, Seaborn), Excel, Power BI
-- **Machine Learning & AI**: Scikit-learn, AWS SageMaker
-- **Cloud Computing & Storage**: AWS (S3, Athena, IAM, SageMaker), Data Lakes
-- **Data Processing Optimization**: Parallel processing (ThreadPoolExecutor), S3 Select, schema-aware column selection
-- **Database & Querying**: SQL, Athena
-- **Communication & Reporting**: Translating insights into actionable recommendations for stakeholders
-- **Technical Writing & Documentation**: Evidence portfolios, performance reviews, self-evaluations
-
-## 🌱 Values & Interests
-- **Purpose-Driven Work**: Building tools that serve real community needs
-- **Cultural Curiosity**: Learning from diverse faiths and philosophies (Christian, Muslim, Hindu texts)
-- **Tech for Good**: Using AI for road safety, mobility access, and sustainable infrastructure
-- **Communication & Relationships**: Naturally curious about people; enjoy light, engaging conversations
-- **Hobbies**: Interested in radio communication as a hobby and exploring where tech meets tradition
-
-
-## 📌 Looking Ahead
-I’m excited to grow as a professional who bridges the gap between engineering and data science. Whether it's through smarter mobility, AI-powered civic tools, or thoughtful business innovation, I aim to contribute to Africa’s tech evolution with practical, community-centered solutions.
+- Data Analytics Training
 
 
